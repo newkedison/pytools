@@ -7,7 +7,7 @@ Current Index:
 
 * ### [douban-download](douban-download/)
 
-    Download music from <fm.douban.com> while listening
+    Download music from <http://douban.fm> while listening
     
     
 Licence
